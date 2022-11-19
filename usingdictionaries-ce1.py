@@ -29,6 +29,3 @@ results = ["passed", "failed", "passed", "failed", "passed", "passed", "failed",
 tryout = dict(zip(names, results))
 y = tryout.get("jorge")
 print(y)
-
-
-
