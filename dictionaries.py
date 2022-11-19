@@ -57,3 +57,7 @@ print(list(combined_list))
 # combine (and format) the list using dict function
 relative_age = dict(zip(relative, age))
 print(relative_age)
+
+
+# REMINDER use {} when creating a list with key-value pair
+# use [] when creating a list only (value only)
